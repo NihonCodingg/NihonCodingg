@@ -14,10 +14,8 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 📚 Cursando **ADS (Análise e Desenvolvimento de Sistemas)** na UNIP Marquês — São Paulo
+- 📚 Cursando **ADS (Análise e Desenvolvimento de Sistemas)** 
 - 🚀 Focado em **desenvolvimento back-end** com Python
-- 🎯 Objetivo de longo prazo: trabalhar na **Riot Games**
-- 🥋 Praticante de **Brazilian Jiu-Jitsu** — disciplina que levo pro código também
 
 ---
 
